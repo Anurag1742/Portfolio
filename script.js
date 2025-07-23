@@ -50,14 +50,14 @@ hamburger.addEventListener('click', () => {
 particlesJS('particles-js', {
     particles: {
         number: {
-            value: 80,
+            value: 100,
             density: {
                 enable: true,
                 value_area: 800
             }
         },
         color: {
-            value: '#2563eb'
+            value: "#2563eb"
         },
         shape: {
             type: 'circle'
@@ -72,7 +72,7 @@ particlesJS('particles-js', {
         },
         line_linked: {
             enable: true,
-            distance: 150,
+            distance: 200,
             color: '#2563eb',
             opacity: 0.4,
             width: 1
