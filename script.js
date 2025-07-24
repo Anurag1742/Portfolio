@@ -122,8 +122,8 @@ const projects = [
         description: 'Created a voice-controlled desktop assistant in Python, enabling 10+ voice commands to automate tasks like opening applications, sending emails, and conducting online searches. Achieved 95% command recognition accuracy, reducing user input errors by 30%.',
         image: 'project1.jpg',
         tags: ['ai'],
-        demo: 'https://github.com/ShubhamKumarRaman/Jarvis-AI-Assistant',
-        github: 'https://github.com/ShubhamKumarRaman/Jarvis-AI-Assistant'
+        demo: 'https://github.com/Anurag1742/Jarvis-AI-Assistant',
+        github: 'https://github.com/Anurag1742/Jarvis-AI-Assistant'
     },
     {
         title: 'Parallax Website',
